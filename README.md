@@ -1,2 +1,2 @@
 # KitchenChaos
-https://gearoid522.github.io/Profile/
+https://gearoid522.github.io/KitchenChaos/
